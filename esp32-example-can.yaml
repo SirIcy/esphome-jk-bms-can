@@ -39,7 +39,7 @@ substitutions:
   rx_pin: GPIO16
 # --------------------------------------
 #### Don't make changes below this ####
-  external_components_source: github://uksa007/esphome-jk-bms-can@main
+  external_components_source: github://SirIcy/esphome-jk-bms-can@main
 
 esphome:
   name: ${name}
